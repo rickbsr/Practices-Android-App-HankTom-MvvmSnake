@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Mvvm_Snake</string>
+    <string name="main_alert_dialog_title">Game State</string>
+    <string name="main_alert_dialog_msg_over">Game Over</string>
+    <string name="main_alert_dialog_btn_replay">Replay</string>
+    <string name="main_alert_dialog_btn_cancel">Cancel</string>
+</resources>
