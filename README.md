@@ -1,5 +1,5 @@
 # HankTom MvvmSnake
-Practices Series：Android App
+Practices Series：Android
 
 ---
 
@@ -25,4 +25,4 @@ Practices Series：Android App
 
 ---
 
-###### tags: `Megabank RHCE Training`
+###### tags: `Android` `Kotlin`
