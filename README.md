@@ -1,5 +1,5 @@
 # HankTom MvvmSnake
-Practices：Android HankTom MvvmSnake
+Practices-Android-HankTom-MvvmSnake
 
 ---
 
@@ -22,3 +22,7 @@ Practices：Android HankTom MvvmSnake
 |       動態預覽圖        |      開始遊戲       |        遊戲中         |      遊戲結束      |
 |:-----------------------:|:-------------------:|:---------------------:|:------------------:|
 | ![](pics/mvvmsnake.gif) | ![](pics/start.png) | ![](pics/playing.png) | ![](pics/over.png) |
+
+---
+
+###### tags: `Megabank RHCE Training`
