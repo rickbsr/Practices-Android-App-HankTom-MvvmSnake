@@ -1,5 +1,5 @@
 # HankTom MvvmSnake
-Practices Series：Android
+實戰項目（Android）：HankTom MvvmSnake
 
 ---
 
