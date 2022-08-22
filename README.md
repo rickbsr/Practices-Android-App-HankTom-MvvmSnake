@@ -1,5 +1,5 @@
 # HankTom MvvmSnake
-Android APP
+Practices Series：Android App
 
 ---
 
