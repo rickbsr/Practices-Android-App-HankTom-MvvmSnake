@@ -1,5 +1,5 @@
 # HankTom MvvmSnake
-實戰項目（Android）：HankTom MvvmSnake
+實戰系列（Android）：HankTom MvvmSnake
 
 ---
 
